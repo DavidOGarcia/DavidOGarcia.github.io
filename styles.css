@@ -29,6 +29,10 @@ nav{
     background: rgb(83, 137, 182);
 }
 
+.fondo2{
+    background: tan;
+}
+
 .exp{
     display: flex;
     justify-content: space-around;
@@ -51,4 +55,9 @@ nav{
 #Experiencias{
     display: flex;
     justify-content: center;
+}
+
+.text2{
+    display: flex;
+    justify-content: space-between;
 }
