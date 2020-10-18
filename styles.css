@@ -30,8 +30,7 @@ nav{
 }
 
 .exp{
-    display: flex;
-    justify-content: space-around;
+
     
     color:snow;
 }
@@ -39,6 +38,7 @@ nav{
 .exp .titulo{
     display: flex;
     list-style: none;
+    padding: 1em;
 }
 
 .text{
@@ -51,4 +51,17 @@ nav{
 #Experiencias{
     display: flex;
     justify-content: center;
+    padding: 1em;
+}
+
+.exp .projects{
+    display:flex;
+    justify-content: space-around;
+    padding: 0.5em;
+}
+
+.exp .projects img{
+    width: 30%;
+    height: 12em;
+    object-fit: fill;
 }
