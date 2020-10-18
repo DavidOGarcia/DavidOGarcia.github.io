@@ -35,15 +35,18 @@ nav{
 }
 
 .exp{
+z
     display: flex;
     justify-content: space-around;
     align-items: center;
+
     color:snow;
 }
 
 .exp .titulo{
     display: flex;
     list-style: none;
+    padding: 1em;
 }
 
 .text{
@@ -53,9 +56,10 @@ nav{
 }
 
 
-#Experiencias{
+#Experiencias , #Aboutme, #contacto{
     display: flex;
     justify-content: center;
+    padding: 1em;
 }
 
 .hero{
@@ -199,4 +203,17 @@ ul.slider li:target{
 .btn_reset:hover{
     background-color: #FA9535;
 
+    padding: 1em;
+}
+
+.exp .projects{
+    display:flex;
+    justify-content: space-around;
+    padding: 0.5em;
+}
+
+.exp .projects img{
+    width: 30%;
+    height: 12em;
+    object-fit: fill;
 }
