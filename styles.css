@@ -130,6 +130,7 @@ ul.slider li:target{
 #contacto{
     display: flex;
     justify-content: center;
+    color: rgb(185, 219, 219);
 }
 
 .contenedorf{
