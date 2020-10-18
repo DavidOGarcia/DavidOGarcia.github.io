@@ -24,3 +24,31 @@ nav{
     padding: 1em;
     font-size: 1.5em;
 }
+
+.fondo1{
+    background: rgb(83, 137, 182);
+}
+
+.exp{
+    display: flex;
+    justify-content: space-around;
+    
+    color:snow;
+}
+
+.exp .titulo{
+    display: flex;
+    list-style: none;
+}
+
+.text{
+    color: rgb(36, 39, 41);
+    font-size: 1em;
+
+}
+
+
+#Experiencias{
+    display: flex;
+    justify-content: center;
+}
