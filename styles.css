@@ -29,6 +29,10 @@ nav{
     background: rgb(83, 137, 182);
 }
 
+.fondo2{
+    background: tan;
+}
+
 .exp{
     display: flex;
     justify-content: space-around;
@@ -53,6 +57,7 @@ nav{
     justify-content: center;
 }
 
+<<<<<<< HEAD
 .hero{
     margin: auto;
     background-image: url('/Fotos/compu3.jpg');
@@ -116,4 +121,9 @@ ul.slider li:target{
     width: 20px;
     height: 20px;
     border-radius: 100%;
+=======
+.text2{
+    display: flex;
+    justify-content: space-between;
+>>>>>>> aboutme
 }
